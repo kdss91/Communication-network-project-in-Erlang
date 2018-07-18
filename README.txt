@@ -11,4 +11,6 @@ Command line statement: cd("<path to source file directory>").
 exchange.erl, calling.erl, and calls.txt are in the same folder.
 
 
-Our task is to provide a communication network for a group of friends. Friends will send a contact message to one or more people in the group and then wait for a confirmation reply from that person.
+Our task is to provide a communication network for a group of friends. 
+Friends will send a contact message to one or more people in the group 
+and then wait for a confirmation reply from that person.
